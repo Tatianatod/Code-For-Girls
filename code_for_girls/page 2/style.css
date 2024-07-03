@@ -1,0 +1,144 @@
+.desktop-1,
+.desktop-1 * {
+  box-sizing: border-box;
+}
+.desktop-1 {
+  background: #ffffff;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.what-we-offer {
+  color: #000000;
+  text-align: center;
+  font-family: "JacquesFrancois-Regular", sans-serif;
+  font-size: 64px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 490px);
+  top: 279px;
+  width: 903px;
+}
+.branding {
+  color: #000000;
+  text-align: center;
+  font-family: "JacquesFrancois-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 97px;
+  top: 721px;
+  width: 360px;
+  height: 82px;
+}
+.website-creation {
+  color: #000000;
+  text-align: center;
+  font-family: "JacquesFrancois-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 389px;
+  top: 721px;
+  width: 360px;
+  height: 82px;
+}
+.content-creation {
+  color: #000000;
+  text-align: center;
+  font-family: "JacquesFrancois-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 950px;
+  top: 721px;
+  width: 360px;
+  height: 82px;
+}
+.marketing {
+  color: #000000;
+  text-align: center;
+  font-family: "JacquesFrancois-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 681px;
+  top: 721px;
+  width: 360px;
+  height: 82px;
+}
+.office-supplies-black-table-1 {
+  width: 200px;
+  height: 201px;
+  position: absolute;
+  left: calc(50% - 531px);
+  top: 481px;
+  mix-blend-mode: darken;
+  object-fit: cover;
+}
+.flat-lay-workstation-with-laptop-equipment-1 {
+  width: 200px;
+  height: 201px;
+  position: absolute;
+  left: 476px;
+  top: 481px;
+  object-fit: cover;
+}
+.black-friday-sales-elements-assortment-1 {
+  width: 201px;
+  height: 201px;
+  position: absolute;
+  left: 763px;
+  top: 481px;
+  object-fit: cover;
+}
+.elevated-view-laptop-with-various-alphabets-white-background-1 {
+  width: 200px;
+  height: 201px;
+  position: absolute;
+  left: 1051px;
+  top: 481px;
+  object-fit: cover;
+}
+.white-bricks-wall-texture-1 {
+  width: 4096px;
+  height: 2734px;
+  position: absolute;
+  left: -1050px;
+  top: -1020px;
+  mix-blend-mode: multiply;
+}
+.white-bricks-wall-texture-12 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  object-fit: cover;
+}
+.code-for-girls {
+  color: #000000;
+  text-align: left;
+  font-family: "JacquesFrancois-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: 9px;
+  top: 0px;
+  width: 280px;
+  height: 56px;
+}
+.designed-by-freepik {
+  color: #000000;
+  text-align: right;
+  font-family: "JacquesFrancois-Regular", sans-serif;
+  font-size: 10px;
+  font-weight: 400;
+  position: absolute;
+  left: 1292px;
+  top: 996px;
+  width: 202px;
+  height: 16px;
+}
